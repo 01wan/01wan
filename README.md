@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @01wan
-- 👀 I’m interested in C and Python programming.
-- 🌱 I’m currently learning Python.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- Hi, I’m @01wan
+- I’m interested in Python and C programming.
+- I’m currently learning Python.
+- I’m looking to collaborate on ...
+- How to reach me [...](https://www.linkedin.com/in/ekursat/)
 
 <!---
 01wan/01wan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
